@@ -1,3 +1,5 @@
 payload:
-  - SRC-IP-CIDR,10.0.0.176/32,no-resolve
-  - IP-CIDR,10.0.0.176/32,no-resolve
+  - SRC-IP-CIDR,10.0.0.176/32
+  - IP-CIDR,10.0.0.176/32
+  - DOMAIN-SUFFIX,roonlabs.net
+  - DOMAIN-SUFFIX,roonlabs.com
