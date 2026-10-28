@@ -1,5 +1,10 @@
 payload:
-  - SRC-IP-CIDR,10.0.0.176/32
-  - IP-CIDR,10.0.0.176/32
-  - DOMAIN-SUFFIX,roonlabs.net
-  - DOMAIN-SUFFIX,roonlabs.com
+    - IP-CIDR,17.0.0.0/8
+    - DOMAIN-SUFFIX,weixin.qq.com
+    - DOMAIN-SUFFIX,tencent.com
+    - DOMAIN-SUFFIX,wechat.com
+    - DOMAIN-SUFFIX,qpic.cn
+    - DOMAIN-SUFFIX,servicewechat.com
+    - DOMAIN-SUFFIX,tenpay.com
+    - DOMAIN-SUFFIX,qq.com
+  
