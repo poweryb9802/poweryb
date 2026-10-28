@@ -7,4 +7,4 @@ payload:
     - DOMAIN-SUFFIX,servicewechat.com
     - DOMAIN-SUFFIX,tenpay.com
     - DOMAIN-SUFFIX,qq.com
-  
+    - DOMAIN-SUFFIX,icloud-content.com
