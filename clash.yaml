@@ -1,5 +1,4 @@
 payload:
-    - IP-CIDR,17.0.0.0/8
     - DOMAIN-SUFFIX,weixin.qq.com
     - DOMAIN-SUFFIX,tencent.com
     - DOMAIN-SUFFIX,wechat.com
@@ -7,4 +6,4 @@ payload:
     - DOMAIN-SUFFIX,servicewechat.com
     - DOMAIN-SUFFIX,tenpay.com
     - DOMAIN-SUFFIX,qq.com
-    - DOMAIN-SUFFIX,icloud-content.com
+    
