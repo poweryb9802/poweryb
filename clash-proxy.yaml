@@ -1,1 +1,3 @@
-
+payload:
+    - DOMAIN-SUFFIX,icloud-content.com
+    - IP-CIDR,17.0.0.0/8
