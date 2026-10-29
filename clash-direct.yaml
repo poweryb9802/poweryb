@@ -6,4 +6,15 @@ payload:
     - DOMAIN-SUFFIX,servicewechat.com
     - DOMAIN-SUFFIX,tenpay.com
     - DOMAIN-SUFFIX,qq.com
-    
+    - DOMAIN-SUFFIX,cn.bing.com
+    - DOMAIN-SUFFIX,www.speedtest.net
+    - DOMAIN-SUFFIX,totheglory.im
+    - DOMAIN-SUFFIX,m-team.cc
+    - DOMAIN-SUFFIX,m-team.io
+    - DOMAIN-SUFFIX,ourbits.club
+    - DOMAIN-SUFFIX,hdwing.org
+    - DOMAIN-SUFFIX,www.ahdlgc.cn
+    - DOMAIN-SUFFIX,prts.plus
+    - DOMAIN-SUFFIX,aonyx.ffxiv.wang
+    - DOMAIN-SUFFIX,amd.com
+    - DOMAIN-SUFFIX,hp.com
